@@ -23,4 +23,4 @@ This Python project is a simple yet effective HVAC service estimator designed fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/HVAC-AC-Repair-Estimate.git
+   git clone https://github.com/AdnanGrifat/Touchstone-4-Python-Journal-Project.git
